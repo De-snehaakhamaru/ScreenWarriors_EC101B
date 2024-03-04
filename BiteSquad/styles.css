@@ -16,6 +16,7 @@ header {
     background: transparent;
     color: #fff;
     padding: 10px;
+    
 }
 
 #logo{
@@ -26,7 +27,17 @@ header {
     margin-left: 20px;
     background-color: tomato;
 }
+form{
+    text-align:right;
+}
 
+nav{
+    height: 80;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: aquamarine;
+    font-size: 25px;
+}
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -35,7 +46,7 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 131px;
 }
 
 nav ul li a {
