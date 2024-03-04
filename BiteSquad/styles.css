@@ -45,6 +45,9 @@ nav{
     color:#000022;
     background-color: aquamarine;
     font-size: 25px;
+    border: #000022;
+    border-style: groove;
+    border-radius: 8%;
 }
 nav ul {
     list-style-type: none;
