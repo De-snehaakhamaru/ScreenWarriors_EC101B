@@ -19,11 +19,12 @@ header {
 }
 
 #logo{
-    height: 70px;
-    width: 70px;
-    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    border-radius: 80%;
     padding: 10px;
     margin-left: 20px;
+    background-color: tomato;
 }
 
 nav ul {
