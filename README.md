@@ -2,10 +2,6 @@
 # Project T
 😋Food Ordering Website - README
 
-https://drive.google.com/file/d/12BXAVM6y19c2xjQvYr4aBoJyNRAeozj9/view?usp=drivesdk
-
-https://drive.google.com/file/d/12CU_NldzxYMrpqggQaBXlOoE2Cz5jUGt/view?usp=drivesdk
-
 https://drive.google.com/file/d/12KKbuF-Pb3Y5M2S20GSjWJf7nqpof3WO/view?usp=drivesdk
 
 💡project ideas:
