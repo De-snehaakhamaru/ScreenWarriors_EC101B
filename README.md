@@ -4,6 +4,10 @@
 
 https://drive.google.com/file/d/12BXAVM6y19c2xjQvYr4aBoJyNRAeozj9/view?usp=drivesdk
 
+https://drive.google.com/file/d/12CU_NldzxYMrpqggQaBXlOoE2Cz5jUGt/view?usp=drivesdk
+
+https://drive.google.com/file/d/12KKbuF-Pb3Y5M2S20GSjWJf7nqpof3WO/view?usp=drivesdk
+
 💡project ideas:
 A food delivery website project could be a great way to learn web development and potentially create a useful service. Here's a basic outline to get you started:Planning: Define the purpose of your website, target audience, and key features. Consider if you want to focus on a specific cuisine, dietary requirements, or target a particular geographic area.Design: Create wireframes and design mockups to visualize the layout and user interface of your website. Ensure the design is user-friendly and responsive for different devices.Development:Frontend: Use HTML, CSS, and JavaScript (possibly with a framework like React, Angular, or Vue.js) to create the user interface.
 
