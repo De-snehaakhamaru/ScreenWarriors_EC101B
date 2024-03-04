@@ -19,6 +19,7 @@ header {
     
 }
 
+
 #logo{
     height: 80px;
     width: 80px;
@@ -28,13 +29,20 @@ header {
     background-color: tomato;
 }
 form{
+    height: 25px;
     text-align:right;
+    color:gold;
+    background-color:brown;
+    display: inline;
+    margin-top: 10px;
 }
 
 nav{
     height: 80;
+    margin-top: 10px;
     margin-left: 25px;
     margin-right: 25px;
+    color:#000022;
     background-color: aquamarine;
     font-size: 25px;
 }
@@ -46,11 +54,11 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin-right: 131px;
+    margin-right: 80px;
 }
 
 nav ul li a {
-    color: #fff;
+    padding: 25px;
     text-decoration: none;
 }
 
@@ -71,13 +79,13 @@ nav ul li a {
     margin-top: 20px;
     margin-bottom: 10px;
     /* font-weight: 700; */
-    color: #FDF0D5;
+    color:rgba(68, 7, 7, 0.8);
 }
 
 .hero p {
     font-family: cursive;
-    font-size: 24px;
-    color: #e8eddf;
+    font-size: 36px;
+    color: #18023d;
     margin-top: 5px;
     margin-bottom: 40px;
 }
