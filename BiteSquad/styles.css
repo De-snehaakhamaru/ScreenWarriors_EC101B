@@ -6,20 +6,15 @@ body {
     background-position: center;
     background-size: cover;
     overflow: none;
-    
     width: auto;
     margin: 0;
     padding: 0;
 }
-
 header {
     background: transparent;
     color: #fff;
     padding: 10px;
-    
 }
-
-
 #logo{
     height: 80px;
     width: 80px;
@@ -30,16 +25,21 @@ header {
 }
 form{
     height: 25px;
-    text-align:right;
+    text-align:center;
     color:gold;
     background-color:brown;
-    display: inline;
-    margin-top: 10px;
+    position: relative;
+    top: 20px;
+    right: 20px;
 }
-
+#foods{
+    color:greenyellow;
+    background-color:rgb(43, 1, 82);
+    font: size 25px bold; ;
+}
 nav{
-    height: 80;
-    margin-top: 10px;
+    height: 25px;
+    margin-top: 25px;
     margin-left: 25px;
     margin-right: 25px;
     color:#000022;
@@ -48,23 +48,22 @@ nav{
     border: #000022;
     border-style: groove;
     border-radius: 8%;
+    position: sticky;
+    top: 8px;
 }
 nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-
 nav ul li {
     display: inline;
-    margin-right: 80px;
+    margin-right: 60px;
 }
-
 nav ul li a {
     padding: 25px;
     text-decoration: none;
 }
-
 .hero {
     /* background-image: url('hero.jpg');
     background-size: cover;
@@ -74,7 +73,6 @@ nav ul li a {
     height: auto;
     /* padding: 100px 0; */
 }
-
 .hero h2 {
     font-family: "Anton", sans-serif;
     font-size: 64px;
@@ -84,7 +82,6 @@ nav ul li a {
     /* font-weight: 700; */
     color:rgba(68, 7, 7, 0.8);
 }
-
 .hero p {
     font-family: cursive;
     font-size: 36px;
@@ -92,7 +89,6 @@ nav ul li a {
     margin-top: 5px;
     margin-bottom: 40px;
 }
-
 .hero a {
     padding: 20px 50px;
     background-color: #FB8500;
@@ -103,7 +99,6 @@ nav ul li a {
     font-weight: 800;
     text-transform: uppercase;
 }
-
 .featured {
     display: flex;
     justify-content: space-around;
@@ -111,13 +106,10 @@ nav ul li a {
     flex-wrap: wrap;
     margin-top: 100px;
     margin-bottom: 50px;
-    
 }
-
 .featured h2{
     margin-right: 50px;
 }
-
 .card {
     width: 300px;
     border: 1px solid #ccc;
@@ -127,7 +119,6 @@ nav ul li a {
     /* margin: 10px; */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-
 .card figure{
     width: auto;
     height: 200px;
@@ -138,7 +129,6 @@ nav ul li a {
     height: 100%;
     border-radius: 5px;
 }
-
 .card h3 {
     color: #e28413;
     font-weight: 800;
@@ -147,14 +137,12 @@ nav ul li a {
     margin-top: 10px;
     font-size: 24px;
 }
-
 .card p {
     text-align: center;
     font-size: 16px;
     color: #000022;
     font-weight: 600;
 }
-
 footer {
     background-color: #023047;
     color: #fff;
